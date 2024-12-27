@@ -1,5 +1,5 @@
-﻿#EXTM3U
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVwhjp.png",CCTV-5
+央视卫视,#genre#
+CCTV-5
 http://wouu.net:9977/udp/239.93.42.37:5140
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVwhjp.png",CCTV-1
 http://wouu.net:9977/udp/239.93.0.58:5140
